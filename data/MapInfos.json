@@ -1,0 +1,20 @@
+[
+null,
+{"id":1,"expanded":true,"name":"Miasto główne","order":1,"parentId":0,"scrollX":1081.3333333333333,"scrollY":1305.3333333333333},
+{"id":2,"expanded":false,"name":"Opuszczon zamek","order":8,"parentId":0,"scrollX":1092,"scrollY":614.6666666666666},
+{"id":3,"expanded":false,"name":"Leśna elita","order":9,"parentId":0,"scrollX":1081.3333333333333,"scrollY":614.6666666666666},
+{"id":4,"expanded":false,"name":"Plaża expowisko","order":10,"parentId":0,"scrollX":1081.3333333333333,"scrollY":889.3333333333334},
+{"id":5,"expanded":false,"name":"Podziemne expowisko z elitą","order":11,"parentId":0,"scrollX":1081.3333333333333,"scrollY":825.3333333333334},
+{"id":6,"expanded":false,"name":"Pozdieemne expowisko z elitą 2","order":12,"parentId":0,"scrollX":1318.6666666666667,"scrollY":1796},
+{"id":7,"expanded":false,"name":"Latający zamek","order":13,"parentId":0,"scrollX":1081.3333333333333,"scrollY":825.3333333333334},
+{"id":8,"expanded":false,"name":"Miasto kupców","order":14,"parentId":0,"scrollX":1081.3333333333333,"scrollY":1545.3333333333333},
+{"id":9,"expanded":false,"name":"Pustynia","order":15,"parentId":0,"scrollX":1081.3333333333333,"scrollY":614.6666666666666},
+{"id":10,"expanded":false,"name":"Opuszczane miasto","order":16,"parentId":0,"scrollX":1081.3333333333333,"scrollY":1545.3333333333333},
+{"id":11,"expanded":false,"name":"Zamek","order":17,"parentId":0,"scrollX":1081.3333333333333,"scrollY":1785.3333333333333},
+{"id":12,"expanded":true,"name":"House 2","order":3,"parentId":1,"scrollX":832,"scrollY":640},
+{"id":13,"expanded":false,"name":"House 1","order":2,"parentId":1,"scrollX":1092,"scrollY":614.6666666666666},
+{"id":14,"expanded":false,"name":"Mansion","order":4,"parentId":1,"scrollX":1081.3333333333333,"scrollY":1280},
+{"id":15,"expanded":false,"name":"Weapon Shop","order":5,"parentId":1,"scrollX":1092,"scrollY":614.6666666666666},
+{"id":16,"expanded":false,"name":"Armor Shop","order":6,"parentId":1,"scrollX":1092,"scrollY":614.6666666666666},
+{"id":17,"expanded":false,"name":"Item Shop","order":7,"parentId":1,"scrollX":1092,"scrollY":614.6666666666666}
+]
